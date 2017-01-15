@@ -1,0 +1,25 @@
+grep
+grep -w word
+grep -wn word line number
+grep -v exlude 
+
+2> error.log
+
+git commands:
+
+global information tracker
+git config
+git init (make a directory localy)
+git add (add file to tracker)
+git rm --cached (remove)
+git commit 
+git commit --amend
+git push
+git log
+git status
+
+output: creat mode(file name) 
+
+add		commit		push
+INDEX		HEAD		
+
