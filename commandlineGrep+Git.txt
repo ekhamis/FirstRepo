@@ -16,6 +16,7 @@ git remmote add origin <name>
 git push -u origin
 git init (make a directory localy)
 git add (add file to tracker)
+git add file-* (add all files)
 git rm (remove the file from index and file system)
 git rm --cached (remove only from the index)
 git commit -m
